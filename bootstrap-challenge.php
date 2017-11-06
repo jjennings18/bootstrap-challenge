@@ -23,6 +23,31 @@
 							</div>
 							<h1 class="display-2">I DON'T KNOW WHAT IM DOING!</h1>
 					</section>
+
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Heading</h2>
+					<p>Lorem ipsum nullam condimentum faucibus vehicula ac scelerisque eros, nec mollis rutrum purus ornare ut vivamus id, taciti arcu aenean duis nam elit nisi tempus proin ullamcorper metus sit convallis dui duis per maecenas potenti. </p>
+					<p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+				</div>
+				<div class="col-md-4">
+					<h2>Heading</h2>
+					<p>Sapien aptent rutrum vulputate dui dictumst vestibulum eleifend, ante phasellus nisi lacinia enim lectus, vel commodo feugiat dolor porttitor curabitur per congue ultrices aliquam consequat velit potenti ut inceptos mauris. </p>
+					<p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+				</div>
+				<div class="col-md-4">
+					<h2>Heading</h2>
+					<p>Aliquam mauris pretium massa orci nibh non aliquam aenean sollicitudin at, mattis non turpis egestas fusce commodo dui adipiscing lacus gravida, aenean rhoncus in torquent nec rhoncus bibendum eros maecenas ipsum eu platea nec.</p>
+					<p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+				</div>
+			</div>
+
+			<hr>
+
+		</div>
 		// Extra small devices (portrait phones, less than 576px)
 		// No media query since this is the default in Bootstrap
 

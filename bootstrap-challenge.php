@@ -21,7 +21,7 @@
 						</div>
 						<div class="jumbotron text-center">
 							</div>
-							<h1 class="display-2">I DON'T KNOW WHAT IM DOING!</h1>
+							<h1 class="display-2">Hello World</h1>
 					</section>
 
 
